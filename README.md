@@ -5,6 +5,9 @@ The following program was written for observing customers, their wait time in th
 2) n lines for customers, with one checkout station per line. Customers go to the line with the fewest number of customers.
 3) n lines for customers, with one checkout station per line. Customers go to a randomly chosen line.
 
+## Google Doc for Reference of Output and Data: 
+<a href="https://docs.google.com/document/d/1_UJz8NTtOEAHZN5eDY07bdCw2SrargPc9cuX6oKelbk/edit?usp=sharing">Project Write-Up and Details</a> 
+
 
  
  
